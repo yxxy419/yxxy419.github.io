@@ -1,6 +1,6 @@
 # Site settings
 title: SIDO's Blog
-SEOTitle: SIDO的博客 | YXXY's Blog
+SEOTitle: SIDO的博客 | SIDO's Blog
 header-img: img/home-bg.jpg
 email: yxxybest2020@sina.com
 description: "May Your Heart Be The Map"
@@ -75,7 +75,7 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "YXXY Blog",
+        title: "SIDO Blog",
         href: ""
     },{
         title: "Spike Spiegel",
