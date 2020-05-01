@@ -1,6 +1,6 @@
 # Site settings
-title: YXXY's Blog
-SEOTitle: YXXY的博客 | YXXY's Blog
+title: SIDO's Blog
+SEOTitle: SIDO的博客 | YXXY's Blog
 header-img: img/home-bg.jpg
 email: yxxybest2020@sina.com
 description: "May Your Heart Be The Map"
@@ -43,7 +43,7 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: Bebop.C
+duoshuo_username: sidoyun
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
@@ -52,16 +52,16 @@ duoshuo_share: true                     # set to false if you want to use Commen
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: d59d067e8500ddc9aafddb11c2cdc1ab
+ba_track_id: 9f983a1d6799e6cc76c019b8b6fdd2f6
 # Google Analytics
 ga_track_id: 'UA-75516959-1'            # Format: UA-xxxxxx-xx
-ga_domain: playingfingers.com
+ga_domain: sidoyun.com
 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "唯有恐惧，方能勇敢。"
+sidebar-about-description: "唯有坚强，方能勇敢。"
 sidebar-avatar: /img/avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
